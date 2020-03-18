@@ -2,7 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :portfolio, Portfolio.Repo,
-  username: "postgres",
+  username: "jalengreene",
   password: "postgres",
   database: "portfolio_dev",
   hostname: "localhost",
