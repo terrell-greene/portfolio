@@ -31,10 +31,6 @@ $theme-colors: (
   "secondary": $theme-text-color-secondary
 );
 
-.social-list .fab {
-  color: $smoky-white;
-}
-
 /*************************** Import Bootstrap  *****************************/
 @import "../node_modules/bootstrap/scss/bootstrap";
 
