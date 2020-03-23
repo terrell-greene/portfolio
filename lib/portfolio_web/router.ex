@@ -17,6 +17,11 @@ defmodule PortfolioWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/portfolio", PortfolioController, :index
+    get "/services", ServicesController, :index
+    get "resume", ResumeController, :index
+    get "blog", BlogController, :index
+    get "/contact", ContactController, :index
   end
 
   # Other scopes may use custom stacks.
