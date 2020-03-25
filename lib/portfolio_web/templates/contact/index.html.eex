@@ -1,1 +1,3 @@
-<h1>Contact</h1>
+
+<%= render "_contact-header.html" %>
+<%= render "_contact-form.html" %>
