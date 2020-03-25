@@ -31,10 +31,24 @@
     <%= csrf_meta_tag() %>
   </head>
   <body class="dark-mode">
-    <%= render "_header.html", conn: @conn%>
+    
     <main role="main" class="main-wrapper">
+      <%= render "_header.html", conn: @conn%>
       <%= render @view_module, @view_template, assigns %>
+
+      <footer class="footer text-center py-4">
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item mb-3"><a class="twitter" href="#"><i class="fab fa-twitter fa-fw fa-lg"></i></a></li>
+          <li class="list-inline-item mb-3"><a class="linkedin" href="#"><i class="fab fa-linkedin-in fa-fw fa-lg"></i></a></li>
+          <li class="list-inline-item mb-3"><a class="github" href="#"><i class="fab fa-github-alt fa-fw fa-lg"></i></a></li>
+          <li class="list-inline-item mb-3"><a class="instagram" href="#"><i class="fab fa-instagram fa-fw fa-lg"></i></a></li>
+          <li class="list-inline-item mb-3"><a class="stack-overflow" href="#"><i class="fab fa-stack-overflow fa-fw fa-lg"></i></a></li>
+          <li class="list-inline-item mb-3"><a class="medium" href="#"><i class="fab fa-medium-m fa-fw fa-lg"></i></a></li>
+        </ul><!--//social-list-->   
+		  </footer>
     </main>
+   
+
     <script type="text/javascript" src='<%= Routes.static_path(@conn, "/js/app.js") %>'></script>
     <script src='<%= Routes.static_path(@conn, "/plugins/jquery-3.4.1.min.js") %>'></script>
     <script src='<%= Routes.static_path(@conn, "/plugins/popper.min.js") %>'></script>

@@ -32,7 +32,7 @@ $theme-colors: (
 );
 
 /*************************** Import Bootstrap  *****************************/
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import "bootstrap/bootstrap.scss";
 
 /*************************** Theme Styles Section ****************************/
 @import "theme/styles.scss";
