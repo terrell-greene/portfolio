@@ -39,7 +39,7 @@
     <script src='<%= Routes.static_path(@conn, "/plugins/jquery-3.4.1.min.js") %>'></script>
     <script src='<%= Routes.static_path(@conn, "/plugins/popper.min.js") %>'></script>
     <script src='<%= Routes.static_path(@conn, "/plugins/bootstrap/js/bootstrap.min.js") %>'></script>
-    <script src='<%= Routes.static_path(@conn, "/plugins/owlcarousel/owl.carousel.min.js") %>'></script>
-    <script src='<%= Routes.static_path(@conn, "/js/testimonials.js") %>'></script>
+    
+    <%= render_existing @view_module, "scripts." <> @view_template, assigns %>
   </body>
 </html>

@@ -1,0 +1,66 @@
+<div class="project-cards row isotope">
+  <%= project_card(
+    @conn,
+    "mobileapp frontend",
+    "/images/project/project-1.jpg",
+    "Project Heading",
+    "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+    "Google") %>
+
+
+  <%= project_card(
+      @conn,
+      "webapp frontend",
+      "/images/project/project-2.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "Dropbox") %>
+
+  <%= project_card(
+      @conn,
+      "mobileapp",
+      "/images/project/project-3.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "Google") %>
+
+  <%= project_card(
+      @conn,
+      "webapp backend",
+      "/images/project/project-4.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "Startup Hub") %>
+
+  <%= project_card(
+      @conn,
+      "mobileapp frontend",
+      "/images/project/project-5.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "SalesForce") %>
+
+  <%= project_card(
+      @conn,
+      "webapp backend",
+      "/images/project/project-6.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "Uber") %>
+
+  <%= project_card(
+      @conn,
+      "webapp frontend backend",
+      "/images/project/project-7.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "Lyft") %>
+      
+  <%= project_card(
+      @conn,
+      "webapp frontend",
+      "/images/project/project-8.jpg",
+      "Project Heading",
+      "Project intro lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.",
+      "GitLab") %>
+</div>
