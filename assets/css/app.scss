@@ -34,5 +34,8 @@ $theme-colors: (
 /*************************** Import Bootstrap  *****************************/
 @import "bootstrap/bootstrap.scss";
 
-/*************************** Theme Styles Section ****************************/
+/*************************** Theme Styles ****************************/
 @import "theme/styles.scss";
+
+/*************************** Admin Styles ****************************/
+@import "admin/styles.scss";

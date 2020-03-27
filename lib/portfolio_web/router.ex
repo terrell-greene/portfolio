@@ -22,6 +22,7 @@ defmodule PortfolioWeb.Router do
     get "resume", ResumeController, :index
     get "blog", BlogController, :index
     get "/contact", ContactController, :index
+    get "/admin", AdminController, :index
   end
 
   # Other scopes may use custom stacks.
