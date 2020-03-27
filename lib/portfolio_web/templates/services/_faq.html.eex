@@ -1,0 +1,98 @@
+<section class="faq-section">
+  <div class="container single-col-max-width">
+    <h3 class="text-center mb-4">FAQs</h3>
+    <div class="text-center mb-5">You can use this section to address any queries your potential clients may have.</div>
+    <div id="faq-accordion" class="faq-accordion mx-auto">
+          <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq1" aria-expanded="false"><i class="fas fa-chevron-down"></i>Can you sit amet quam eget lacinia?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq1">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq2" aria-expanded="false"><i class="fas fa-chevron-down"></i>What is the ipsum dolor sit amet quam tortor?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq2">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq3" aria-expanded="false"><i class="fas fa-chevron-down"></i>What if ultricies nec vulputate eget?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq3">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq4" aria-expanded="false"><i class="fas fa-chevron-down"></i>Is it possible to tellus eget auctor condimentum?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq4">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+          
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq5" aria-expanded="false"><i class="fas fa-chevron-down"></i>Do you elementum turpis semper imperdiet?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq5">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq6" aria-expanded="false"><i class="fas fa-chevron-down"></i>How much imperdiet lorem sem non nisl?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq6">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq7" aria-expanded="false"><i class="fas fa-chevron-down"></i>How long does it take to imperdiet lorem sem non nisl?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq7">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+            <div class="card border-0 mb-3">
+                <div class="card-header border-0 p-3 theme-bg-light">
+                    <h4 class="card-title mb-0"><a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed" href="#faq8" aria-expanded="false"><i class="fas fa-chevron-down"></i>Where can I imperdiet lorem sem non nisl?</a></h4>
+                </div>
+    
+                <div class="card-collapse collapse" id="faq8">
+                    <div class="card-body pt-0 theme-bg-light">
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                    </div><!--//card-body-->
+                </div>
+            </div><!--//card-->
+          
+          </div><!--//faq-accordion-->
+  </div><!--//container-->
+</section><!--//faq-section-->
